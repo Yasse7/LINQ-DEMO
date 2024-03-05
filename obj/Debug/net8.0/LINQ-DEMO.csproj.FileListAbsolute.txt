@@ -1,0 +1,15 @@
+D:\ASP-CORE-PRJS\LINQ-DEMO\bin\Debug\net8.0\LINQ-DEMO.exe
+D:\ASP-CORE-PRJS\LINQ-DEMO\bin\Debug\net8.0\LINQ-DEMO.deps.json
+D:\ASP-CORE-PRJS\LINQ-DEMO\bin\Debug\net8.0\LINQ-DEMO.runtimeconfig.json
+D:\ASP-CORE-PRJS\LINQ-DEMO\bin\Debug\net8.0\LINQ-DEMO.dll
+D:\ASP-CORE-PRJS\LINQ-DEMO\bin\Debug\net8.0\LINQ-DEMO.pdb
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.AssemblyInfoInputs.cache
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.AssemblyInfo.cs
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.csproj.CoreCompileInputs.cache
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.sourcelink.json
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.dll
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\refint\LINQ-DEMO.dll
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.pdb
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\LINQ-DEMO.genruntimeconfig.cache
+D:\ASP-CORE-PRJS\LINQ-DEMO\obj\Debug\net8.0\ref\LINQ-DEMO.dll
